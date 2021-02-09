@@ -61,8 +61,8 @@ mirror = 'https://storage.ripple.moe'
 # the menu icon displayed on
 # the main menu of osu! in-game.
 menu_icon = (
-    'https://akatsuki.pw/static/logos/logo_ingame.png', # image URL
-    'https://akatsuki.pw' # onclick URL
+    'https://w.cool-k.id/em1dBA42AFE1C84Be5.png', # image URL
+    'http://localhost:5000' # onclick URL
 )
 
 # seasonal backgrounds to be displayed
