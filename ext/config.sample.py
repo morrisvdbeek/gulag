@@ -79,8 +79,8 @@ command_prefix = '!'
 # TODO: add more defaults; servers deserve better than this lol..
 # players on bancho, and auto-add them to this set on startup?
 disallowed_names = {
-    'cookiezi', 'rrtyui',
-    'hvick225', 'qsc20010'
+    'cookiezi', 'TheNewWorld',
+    'Nigger', 'Aika'
 }
 
 disallowed_passwords = {
