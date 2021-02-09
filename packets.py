@@ -647,7 +647,7 @@ def botStats():
         Packets.CHO_USER_STATS,
         (glob.bot.id, osuTypes.i32),
         (8, osuTypes.u8), # testing
-        ('out new code..', osuTypes.string),
+        ('Out New Osu! Private Server | TheNewWorld.cc ..', osuTypes.string),
         ('', osuTypes.string),
         (0, osuTypes.i32),
         (0, osuTypes.u8),
